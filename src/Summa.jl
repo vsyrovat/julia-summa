@@ -1,4 +1,4 @@
-module Rythm
+module Summa
 
 function summa(values...)
     acc, errors = do_summa(values, [])

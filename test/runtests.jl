@@ -1,5 +1,5 @@
 using Revise
-using Rythm
+using Summa
 using Test
 
 @testset "summa" begin
